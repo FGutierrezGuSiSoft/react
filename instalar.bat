@@ -1,1 +1,1 @@
-docker run -it -p 3000:3000 -v /Users/groupon/Documents/Autonoma/react/app:/usr/src/app node:11.14.0-stretch bash
+docker run -it -p 3000:3000 -v /Users/groupon/Documents/Autonoma/react/app:/usr/src/app debian:stretch bash
